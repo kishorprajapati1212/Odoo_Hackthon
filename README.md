@@ -21,8 +21,6 @@ A MERN stack web application for renting furniture, built for a hackathon. Users
 
 🔹 Node.js – Runs the backend server
 
-🔹 JWT Authentication – Secures login and session management
-
 # 📦 Installation Steps
 1️⃣ Clone the Repository
 
@@ -35,11 +33,6 @@ A MERN stack web application for renting furniture, built for a hackathon. Users
 📌 Run → npm install (for the backend)
 
 📌 Run → cd client && npm install (for the frontend)
-
-# 4️⃣ Set Up Environment Variables
-🛠️ Create a .env file in the root and add:
-
-MONGO_URI=your_mongodb_connection_string
 
 JWT_SECRET=your_secret_key
 # 5️⃣ Start the Backend Server
